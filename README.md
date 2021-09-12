@@ -45,7 +45,7 @@ npm run build
 ```
 - Submit your built codes to Netlify and it will help you deploy.
 - Then you can change your website URL to any name you like.
-- Share its unique link with others and have fun!😀
+- Share its unique link with others and have fun! 😀
 
 ## (Optional) Depoly backend server
 - Login or signup for https://www.netlify.com/
