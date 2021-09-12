@@ -35,3 +35,22 @@ $ npm install
 $ npm start
 ```
 - It will run at localhost:3000 and open in browser automatically! Done! 👍
+
+## (Optional) Depoly frontend server
+- Login or signup for https://www.heroku.com/
+- Create a new site in Netlify
+- build your code in **client** folder
+```
+npm run build
+```
+- Submit your built codes to Netlify and it will help you deploy.
+- Then you can change your website URL to any name you like.
+- Share its unique link with others and have fun!😀
+
+## (Optional) Depoly backend server
+- Login or signup for https://www.netlify.com/
+- Create a new app in Heroku
+- Download and install Heroku CLI(or other tools) based on its docs.
+- Bind your Heroku accont within your backend project
+- Submit your codes to Heroku and it will help you build it automatically.
+- Now you can change your api URL into Heroku URL you created.
