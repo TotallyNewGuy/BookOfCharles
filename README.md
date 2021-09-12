@@ -20,7 +20,7 @@ $ npm install
 PORT = 'Port'
 CONNECTION_URL = 'MongoDB_URL'
 ```
-- **IMPORTANT!** After save changes, also Change the name of **.env.example** to **.env**
+- **IMPORTANT!** After save changes, also change the name of **.env.example** to **.env**
 - Run your backend project. It will run at your **localhost:"your modified port"**
 ```
 npm start
