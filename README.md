@@ -35,4 +35,3 @@ $ npm install
 $ npm start
 ```
 - It will run at localhost:3000 and open in browser automatically! Done! 👍
-
