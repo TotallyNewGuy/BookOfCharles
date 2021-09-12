@@ -10,18 +10,18 @@ git clone https://github.com/TotallyNewGuy/BookOfCharles.git
 ```
 
 ### (b). Setup Node.js backend project
-- Go to **server** folder, install all dependencies, run this project
+- Go to **server** folder then install all dependencies
 ```
-$ cd BookOfCharles/server
+$ cd CSGO-U/server
 $ npm install
-$ npm start
 ```
 - Open .env.example and edit server port and MongoDB URL to configure your database
 ```
 PORT = 'Port'
 CONNECTION_URL = 'MongoDB_URL'
 ```
-- Save it, then run your backend project. It will run at your **localhost:"your modified port"**
+- **IMPORTANT!** After save changes, also Change the name of **.env.example** to **.env**
+- Run your backend project. It will run at your **localhost:"your modified port"**
 ```
 npm start
 ```
