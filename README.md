@@ -3,7 +3,7 @@ A website record stories from different people
 
 This project is my first website after I learn about web development. It was used create-react-app as a frame, and a popular javascript stack MERN(MongoDB, express, react and node.js) from backend to frontend. The frontend deposit on netlify and backend deposit on heroku.
 
-## 1. Quickly set up
+## Quickly set up
 ### (a). Clone this repository to local folder
 ```
 git clone https://github.com/TotallyNewGuy/BookOfCharles.git
